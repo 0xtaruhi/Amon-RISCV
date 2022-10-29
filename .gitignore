@@ -1,0 +1,15 @@
+# metals & sbt
+.metals
+.bloop
+project
+.bsp
+
+# vscode
+.vscode
+
+# build
+target
+build
+
+# rtl
+rtl
